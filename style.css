@@ -1,0 +1,83 @@
+div.imgAlign {
+    text-align: center;
+}
+
+div.phoneDev {
+    text-align: center;
+}
+
+.loginButton {
+    background-color: grey;
+    width: 150px;
+    height: 70px;
+}
+
+div.loginDetails {
+    text-align: center;
+    color: seagreen;
+}
+
+.loginBoxes {
+    height: 40px;
+    width: 200px;
+    align-items: center;
+}
+
+.loginBody {
+    text-align: center;
+}
+
+div.submitButton {
+    height: 10px;
+    color: blue;
+}
+ .adPic{
+     float: left;
+ }
+ 
+ .submitButton {
+     width: 100px;
+     height: 50px;
+     background-color:greenyellow;
+     float: right;
+  
+ }
+ .quizPic {
+    text-align: center;
+ }
+ .quizRules{
+     text-align: center;
+     color: seagreen;
+ }
+.techInfo {
+    color: seagreen;
+}
+.options {
+    color: seagreen;
+}
+
+.quizSbButton {
+    width: 100px;
+    height: 50px;
+    background-color:greenyellow;
+}
+.finalRes {
+    text-align: center;
+    color: seagreen;
+}
+.mainPageButton {
+    width: 100px;
+     height: 50px;
+     background-color:greenyellow;
+     float: right;
+}
+.robotics {
+    text-align: center;
+}
+.interviewPeople {
+    color: red;
+}
+.endImage {
+    text-align: center;
+    color: seagreen;
+}
